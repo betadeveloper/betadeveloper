@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Raigardas Tautkus 
 
-🚀 **Software Engineer | Full-Stack Developer | Java & Angular**
+🚀 **Software Engineer | Full-Stack Developer | Java & Angular Enthusiast**
 
 ---
 
@@ -21,25 +21,24 @@
 ---
 
 ### 📈 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaigardasTautkus&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaigardasTautkus&layout=compact&theme=radical)
 
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/raigardas-tautkus/))
-[![Medium](https://img.shields.io/badge/-Medium-black?logo=medium&logoColor=white&style=flat)]([https://medium.com/@yourusername](https://medium.com/@raigardastautkus))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/raigardas-tautkus/)
+[![Medium](https://img.shields.io/badge/-Medium-black?logo=medium&logoColor=white&style=flat)](https://medium.com/@raigardastautkus)
 
 ---
 
 ### 💡 Latest Articles
-- [Transactions 101: When and How to Use Them in the Spring Framework]([https://medium.com/@yourusername/transactions-101]([https://raigardastautkus.medium.com/transactions-101-when-and-how-to-use-them-in-java-spring-8c0c08531700])
-- [Choosing a Frontend Framework: Insights from My Experience using Angular, React, and Vue]
-- ([https://medium.com/@yourusername/angular-vs-react](https://raigardastautkus.medium.com/choosing-a-frontend-framework-insights-from-my-experience-using-angular-react-and-vue-ea39d7bdd3c4))
+- [Transactions 101: When and How to Use Them in the Spring Framework](https://raigardastautkus.medium.com/transactions-101-when-and-how-to-use-them-in-java-spring-8c0c08531700)
+- [Choosing a Frontend Framework: Insights from My Experience using Angular, React, and Vue](https://raigardastautkus.medium.com/choosing-a-frontend-framework-insights-from-my-experience-using-angular-react-and-vue-ea39d7bdd3c4)
 
 ---
 
 ### ✨ Fun Facts
-- 🗺️ Planning to move to **Norway or Denmark** to study for Master's.
+- 🗺️ Planning to move to **Norway or Denmark** to pursue a Master's degree.
 - 🍵 Powered by **matcha with cordyceps extract**.
-- 🎯 Ambition: **Create Innovation**!
+- 🎯 Ambition: **Innovate and Create**!
