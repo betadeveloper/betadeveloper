@@ -21,7 +21,6 @@
 ---
 
 ### 📈 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=betadeveloper&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=betadeveloper&layout=compact&theme=radical)
 
 ---
