@@ -33,7 +33,7 @@
 ---
 
 ### 💡 Latest Articles
-- [Transactions 101: When and How to Use Them in the Spring Framework]([https://medium.com/@yourusername/transactions-101](https://raigardastautkus.medium.com/transactions-101-when-and-how-to-use-them-in-java-spring-8c0c08531700))
+- [Transactions 101: When and How to Use Them in the Spring Framework]([https://medium.com/@yourusername/transactions-101]([https://raigardastautkus.medium.com/transactions-101-when-and-how-to-use-them-in-java-spring-8c0c08531700])
 - [Choosing a Frontend Framework: Insights from My Experience using Angular, React, and Vue]
 - ([https://medium.com/@yourusername/angular-vs-react](https://raigardastautkus.medium.com/choosing-a-frontend-framework-insights-from-my-experience-using-angular-react-and-vue-ea39d7bdd3c4))
 
