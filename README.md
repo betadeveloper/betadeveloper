@@ -38,6 +38,6 @@
 ---
 
 ### ✨ Fun Facts
-- 🗺️ Planning to move to **Norway or Denmark** to pursue a Master's degree.
+- 🗺️ Planning to move to **Norway** to pursue a Master's degree.
 - 🍵 Powered by **matcha with cordyceps extract**.
 - 🎯 Ambition: **Innovate and Create**!
