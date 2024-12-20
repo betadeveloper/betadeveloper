@@ -40,4 +40,4 @@
 ### ✨ Fun Facts
 - 🗺️ Planning to move to **Norway** to pursue a Master's degree.
 - 🍵 Powered by **matcha with cordyceps extract**.
-- 🎯 Ambition: **Innovate and Create**!
+- 🎯 Ambition: **Create and innovate**!
