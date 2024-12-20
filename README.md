@@ -6,7 +6,7 @@
 
 ### 🔥 About Me
 - 💻 Currently working as a **Software Engineer** at [twoday](https://twoday.com), primarily with Angular, Java, and MySQL.
-- 🎓 Bachelor's in IT | Almost **2 years of experience** in software development.
+- 🎓 Bachelor's in IT | Almost **2 years of professional experience** in software development.
 - 📚 Passionate about **Java, Angular, and crafting creative solutions**.
 
 ---
