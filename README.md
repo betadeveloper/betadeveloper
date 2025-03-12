@@ -1,10 +1,8 @@
 # 👋 Hello, World! I'm Raigardas Tautkus 
 
-🚀 **Software Engineer | Full-Stack Developer | Java & Angular Enthusiast**
-
 ---
 
-### 🔥 About Me
+### About Me
 - 💻 Currently working as a **Software Engineer**, primarily with Angular, Java, and MySQL.
 - 🎓 Bachelor in IT | Almost **2 years of professional experience** in software development.
 - 📚 Passionate about **Java, Angular, and crafting creative solutions**.
@@ -20,18 +18,18 @@
 
 ---
 
-### 📈 Stats
+### Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=betadeveloper&layout=compact&theme=radical)
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/raigardas-tautkus/)
 [![Medium](https://img.shields.io/badge/-Medium-black?logo=medium&logoColor=white&style=flat)](https://medium.com/@raigardastautkus)
 
 ---
 
-### 💡 Latest Articles
+### Latest Articles
 - [Transactions 101: When and How to Use Them in the Spring Framework](https://raigardastautkus.medium.com/transactions-101-when-and-how-to-use-them-in-java-spring-8c0c08531700)
 - [Choosing a Frontend Framework: Insights from My Experience using Angular, React, and Vue](https://raigardastautkus.medium.com/choosing-a-frontend-framework-insights-from-my-experience-using-angular-react-and-vue-ea39d7bdd3c4)
 
