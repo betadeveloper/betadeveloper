@@ -5,7 +5,7 @@
 ### About Me
 -  Currently working as a **Software Engineer**, primarily with Angular, Java, and MySQL.
 - Bachelor in IT | Almost **2 years of professional experience** in software development.
-- Passionate about **Software engineering and computer science**.
+- Passionate about **Software Engineering and Computer Science**.
 
 ---
 
