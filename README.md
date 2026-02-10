@@ -3,9 +3,10 @@
 ---
 
 ### About Me
--  Currently working as a **Software Engineer**, primarily with Angular, Java, and MySQL.
-- Bachelor in IT | More than **2 years of professional experience** in software development.
+-  Currently working as a **Software Engineer**, primarily with React, Angular, Java, and relational databases.
+- Bachelor in IT | More than **3 years of professional experience** in software development.
 - Passionate about **Software Engineering and Computer Science**.
+- Studying Master's degree in Financial Technology
 
 ---
 
